@@ -14,7 +14,7 @@ namespace RegistroCarreras.DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Sourse=DATA/Estudiantes.db");            
+            optionsBuilder.UseSqlite("Data Source=DATA/Estudiantes.db");            
         }
     }
 }

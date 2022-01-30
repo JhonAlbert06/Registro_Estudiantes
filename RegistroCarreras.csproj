@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <Resource Include="Resources\imagen.png" />
+  </ItemGroup>
+
 </Project>

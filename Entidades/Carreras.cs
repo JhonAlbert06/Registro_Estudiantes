@@ -6,7 +6,7 @@ namespace RegistroCarreras.Entidades
 {
     public class Carreras
     {
-        [key]
+        [Key]
         public int CarreraID { get; set; }
         public string? Nombre { get; set; }
 

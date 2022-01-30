@@ -153,7 +153,5 @@ namespace RegistroCarreras.BLL
             return lista;
         }
 
-
-
     }
 }

@@ -1,20 +1,20 @@
 ﻿RegistroCarreras
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\jhona\Documents\GitHub\RegistroCarreras\obj\Debug\net6.0-windows\
+C:\Users\jhona\Documents\GitHub\RegistroCarreras\obj\Debug\net6.0-windows\
 RegistroCarreras
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-c:\Users\jhona\Documents\GitHub\RegistroCarreras\App.xaml
+C:\Users\jhona\Documents\GitHub\RegistroCarreras\App.xaml
 11407045341
 
-7-739556009
+61902155166
 2122012596293
 MainWindow.xaml;
 
-True
+False
 

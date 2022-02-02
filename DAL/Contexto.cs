@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 using Microsoft.EntityFrameworkCore;
-using RegistroCarreras.Entidades;
+using Registro_Estudiantes.Entidades;
 
-namespace RegistroCarreras.DAL
+namespace Registro_Estudiantes.DAL
 {
     public class Contexto : DbContext
     {

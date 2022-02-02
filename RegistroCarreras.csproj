@@ -16,7 +16,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Resources\imagen.png" />
+    <Resource Include="Resources\add.png" />
+    <Resource Include="Resources\agregar.png" />
+    <Resource Include="Resources\Buscar.png" />
+    <Resource Include="Resources\EliminarT.png" />
+    <Resource Include="Resources\Guardar.png" />
+    <Resource Include="Resources\Window.ico" />
   </ItemGroup>
 
 </Project>

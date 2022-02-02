@@ -1,0 +1,6 @@
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\RegistroCarreras.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\UI\Registro\rCarrera.g.cs
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\RegistroCarreras_MarkupCompile.cache
+C:\Users\jhona\Documents\GitHub\Registro_Estudiantes\obj\Debug\net6.0-windows\RegistroCarreras_MarkupCompile.lref

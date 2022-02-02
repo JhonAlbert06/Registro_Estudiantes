@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Registro_Estudiantes.UI.Registros"
         mc:Ignorable="d"
-        Title="Registro de Libros" Height="300" Width="300">
+        Title="Registro de Carreras" Height="300" Width="300">
     <Grid>
 
         <StackPanel Orientation="Vertical" Margin="10"> 
@@ -21,13 +21,14 @@
             </StackPanel>
 
 
-           <!-- TITULO -->
-            <Label Content="Titulo:"/>
-            <TextBox x:Name="TituloTextBox" Text="{Binding Titulo}" Width="200" />
+            <!-- Id -->
+            <Label Content="ID:"/>
+            <TextBox x:Name="IDTextBox" Text="{Binding ID}" Width="200" />
 
-           <!-- GRUPO -->
-            <Label Content="Grupo:"/>
-            <TextBox  x:Name="GrupoTextBox" Text="{Binding Grupo}" Width="200" />
+            <!-- Carrera -->
+            <Label Content="Carrera:"/>
+            <TextBox x:Name="CarreraTextBox" Text="{Binding Carrera}" Width="200" />
+
 
             <!-- BARRA DE BOTONES -->
             <StackPanel 

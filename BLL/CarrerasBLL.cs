@@ -4,10 +4,10 @@ using System.Linq.Expressions;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-using RegistroCarreras.DAL;
-using RegistroCarreras.Entidades;
+using Registro_Estudiantes.DAL;
+using Registro_Estudiantes.Entidades;
 
-namespace RegistroCarreras.BLL
+namespace Registro_Estudiantes.BLL
 {
     public class CarrerasBLL
     {
